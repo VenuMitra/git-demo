@@ -15,7 +15,7 @@ public class AppTest
 	
 	public void test() {
 		System.out.println("Test program");
-		System.out.println("Welcom  e");
+		System.out.println("Welcome to git");
 	}
     @Test
     public void shouldAnswerWithTrue()
