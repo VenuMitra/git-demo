@@ -15,6 +15,7 @@ public class AppTest
 	
 	public void test() {
 		System.out.println("Test program");
+		System.out.println("Welcome");
 	}
     @Test
     public void shouldAnswerWithTrue()
